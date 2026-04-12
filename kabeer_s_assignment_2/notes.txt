@@ -31,3 +31,8 @@ go to the file and cat it
 password found is HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 apparently the find command can do this even better. just do find -size 1033c, where c means bytes (characters actually). find has many other paramters too
+
+Level 6:
+again saw man find
+found user tag and group tag. many permission denied error. manually search for accessible file
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
