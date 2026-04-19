@@ -145,7 +145,9 @@ Level 27: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB (Nothing new, a previous tactic only)
 Level 28: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN (git cloning to the local machine)
 
 Level 29: 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 (git log history) using git log -p
-Level 30: 
+Level 30: qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL (git branch to see all the branches) -> Checked into every branch and its logs -> found the password in the remotes/origin/dev logs
+																
+
 
 
 
